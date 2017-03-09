@@ -482,12 +482,16 @@
 
 		.image.fit {
 			display: block;
-			margin: 0 0 2em 0;
-			width: 60%;
+			margin: 2 0 2em 0;
+			left:50%; 
+    		top:50%;
+
 		}
 
 			.image.fit img {
-				width: 60%;
+				display: block;
+				left:50%; 
+    			top:50%;
 			}
 
 /* List */
